@@ -1,4 +1,17 @@
-# demo
+# Demo
+
+This repo represents starter project for vue.js.
+
+It includes the following setup:
+
+* vuex (State Management Pattern)
+* i18n (Localisation)
+* router (Routing)
+* vuetify (Material Design Framework)
+* axios
+* sass
+* eslint
+
 
 ## Project setup
 ```
